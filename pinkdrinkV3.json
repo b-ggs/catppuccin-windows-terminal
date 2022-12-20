@@ -1,0 +1,27 @@
+{
+  "name": "Catppuccin Pinkdrink V3",
+
+  "cursorColor": "#F5E0DC",
+  "selectionBackground": "#585B70",
+
+  "background": "#352939",
+  "foreground": "#F4CDE9",
+
+  "black": "#5A4551",
+  "red": "#F38BA8",
+  "green": "#A6E3A1",
+  "yellow": "#F9E2AF",
+  "blue": "#89B4FA",
+  "purple": "#F5C2E7",
+  "cyan": "#94E2D5",
+  "white": "#DEBAD4",
+
+  "brightBlack": "#705867",
+  "brightRed": "#F38BA8",
+  "brightGreen": "#A6E3A1",
+  "brightYellow": "#F9E2AF",
+  "brightBlue": "#89B4FA",
+  "brightPurple": "#F5C2E7",
+  "brightCyan": "#94E2D5",
+  "brightWhite": "#C8A6BE"
+}
